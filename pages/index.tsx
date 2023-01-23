@@ -27,7 +27,7 @@ export default function Home() {
             <p>Nuestra academia de música es el lugar perfecto para aquellos que buscan desarrollar su pasión por la música. </p>
             <p>Ofrecemos una amplia variedad de clases y programas para todas las edades y niveles de habilidad, desde principiantes hasta avanzados. Contamos con un equipo de profesores altamente calificados y experimentados que están dedicados a ayudar a nuestros estudiantes a alcanzar su máximo potencial. Además, brindamos un ambiente de aprendizaje positivo y acogedor en el que los estudiantes pueden crecer musicalmente y desarrollar su confianza en sí mismos.</p>
             <p>Si estás buscando una experiencia educativa de música de alta calidad, ¡Ven a visitarnos hoy!</p>
-            <button className={styles.button}>Agenda una clase de prueba</button>
+            <a href="https://wa.me/+573114200732?text=Quiero más información sobre sus clases de prueba."><button className={styles.button}>Agenda una clase de prueba</button></a>
           </div>
           <div className={styles.about_image}>
             <Image src="/images/clases.png" alt="maestra esnseñando las notas musicales a 3 niños en un pizarrón" />
@@ -43,7 +43,7 @@ export default function Home() {
                 <h4>Canto</h4>
                 <p>Nuestras clases de canto son el lugar perfecto para aquellos que desean mejorar su técnica vocal y aumentar su confianza en el escenario.</p>
                 <p>Ofrecemos clases para todos los niveles, desde principiantes hasta profesionales, y abarcamos una amplia variedad de géneros y estilos.</p>
-                <a href="https://wa.me/+573114200732?text=Quiero más información sobre sus clases de canto." target="_blank" rel="noreferrer"><button>Más información</button></a>
+                <a href="https://wa.me/+573114200732?text=Quiero más información sobre sus clases de canto."><button>Más información</button></a>
               </div>
             </article>
             <article className={styles.programs_card}>
@@ -52,7 +52,7 @@ export default function Home() {
                 <h4>Piano</h4>
                 <p>Nuestras clases de piano son ideales para aquellos que desean aprender a tocar este instrumento maravilloso.</p>
                 <p>Aprenderás técnicas de juego, teoría musical, y podrás tocar tus canciones favoritas.</p>
-                <a href="https://wa.me/+573114200732?text=Quiero más información sobre sus clases de piano." target="_blank" rel="noreferrer"><button>Más información</button></a>
+                <a href="https://wa.me/+573114200732?text=Quiero más información sobre sus clases de piano."><button>Más información</button></a>
               </div>
             </article>
             <article className={styles.programs_card}>
@@ -61,7 +61,7 @@ export default function Home() {
                 <h4>Guitarra</h4>
                 <p>Nuestras clases de guitarra son el lugar perfecto para aquellos que desean aprender a tocar este instrumento versátil y emocionante.</p>
                 <p>Aprenderás técnicas de juego, acordes, solos, y podrás tocar tus canciones favoritas.</p>
-                <a href="https://wa.me/+573114200732?text=Quiero más información sobre sus clases de guitarra." target="_blank" rel="noreferrer"><button>Más información</button></a>
+                <a href="https://wa.me/+573114200732?text=Quiero más información sobre sus clases de guitarra."><button>Más información</button></a>
               </div>
             </article>
             <article className={styles.programs_card}>
@@ -70,7 +70,7 @@ export default function Home() {
                 <h4>Batería</h4>
                 <p>Nuestras clases de batería son el lugar perfecto para aquellos que buscan desarrollar su habilidad en este emocionante instrumento. </p>
                 <p>Aprenderás técnicas de juego, ritmo, tiempos y podrás tocar tus canciones favoritas. </p>
-                <a href="https://wa.me/+573114200732?text=Quiero más información sobre sus clases de batería." target="_blank" rel="noreferrer"><button>Más información</button></a>
+                <a href="https://wa.me/+573114200732?text=Quiero más información sobre sus clases de batería."><button>Más información</button></a>
               </div>
             </article>
           </div>
